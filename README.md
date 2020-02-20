@@ -1,1 +1,1 @@
-# matrix-factorization-java
+# Matrix Factorization for Java
