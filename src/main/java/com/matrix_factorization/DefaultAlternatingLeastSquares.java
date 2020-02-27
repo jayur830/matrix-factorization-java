@@ -1,9 +1,6 @@
 package com.matrix_factorization;
 
-public class AlternatingLeastSquares {
-
-    public AlternatingLeastSquares() {}
-
+public class DefaultAlternatingLeastSquares implements AlternatingLeastSquares<double[][]> {
     /**
      * @param x: nUsers * factor
      * @param y: nItems * factor
